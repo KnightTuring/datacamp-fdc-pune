@@ -1,12 +1,10 @@
 #!/usr/bin/python3
 import numpy as np
-import matplotlib.pyplot as plt
 import pandas as pd
 from apyori import apriori
 
 """
-A demo Python3 code demonstrating the Apriori algorithm being used to gain insights 
-from a movie dataset.
+A demo Python3 code demonstrating the Apriori algorithm being used to gain insights from a movie dataset. Tested on Python 3.6.7 and 3.7.6, should work on 3.x 
 
 This example is picked from: https://medium.com/@fabio.italiano/the-apriori-algorithm-in-python-expanding-thors-fan-base-501950d55be9
 
